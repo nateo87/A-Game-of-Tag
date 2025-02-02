@@ -8,7 +8,8 @@ It's easy for the player charcaters to fly off the screen - I recommend marking 
 You can just solder wires directly from your player control pots to the PCB, or you can use pinheaders and have wires going from the pots with crimped on molex connectors at the other end. 
 
 <b> BOM </b>
-Caps:
+
+Caps:<br>
 100pf x 2
 3900pf x 2
 10nf x 4
