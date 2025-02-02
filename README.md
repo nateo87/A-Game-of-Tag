@@ -10,42 +10,42 @@ You can just solder wires directly from your player control pots to the PCB, or 
 <b> BOM </b>
 
 Caps:<br>
-100pf x 2
-3900pf x 2
-10nf x 4
-47nf x 2
-0.1uf x 9
+100pf x 2<br>
+3900pf x 2<br>
+10nf x 4<br>
+47nf x 2<br>
+0.1uf x 9<br>
 
-Elec. Caps:
-1uf x 2
-10uf x 1
+Elec. Caps:<br>
+1uf x 2<br>
+10uf x 1<br>
 
-Resistors:
-470ohm x 4
-2.2k x 1
-3.3k x 2
-22k x 1
-33k x 2
-100k x 1
+Resistors:<br>
+470ohm x 4<br>
+2.2k x 1<br>
+3.3k x 2<br>
+22k x 1<br>
+33k x 2<br>
+100k x 1<br>
 
-Potentiometers:
+Potentiometers:<br>
 500k x 4
 
-Diode:
+Diode:<br>
 1N4148 x 1
 
-Switch:
+Switch:<br>
 6x6mm tact switch x 1
 
-Pin headers:
-2x20 IDC male, 2.54mm pitch
-2x8 pin header, 2.54mm pitch
-1x3 pin header, 2.54mm pitch x 4
+Pin headers:<br>
+2x20 IDC male, 2.54mm pitch<br>
+2x8 pin header, 2.54mm pitch<br>
+1x3 pin header, 2.54mm pitch x 4<br>
 
-ICs:
-74LS00 x 2
-74LS02
-74LS04
-74LS109
-LM555
+ICs:<br>
+74LS00 x 2<br>
+74LS02<br>
+74LS04<br>
+74LS109<br>
+LM555<br>
 LM556 x 2
